@@ -1,0 +1,38 @@
+
+
+
+
+CLIENTES
+-------------------------
+id_cliente
+email
+senha
+nome_completo
+endereco
+cidade
+telefone
+purl
+ativo
+created_at
+updated_at
+deleted_at
+
+
+[text_email] => teste@email.com
+[text_senha_1] => dfasdfe
+[text_senha_2] => asdfads
+[text_nome_completo] => awefefsdgeer
+[text_endereco] => asdwef
+[text_cidade] => wefqes\dvaer
+[text_telefone] => 
+
+
+adicionar o PHPMailler ao nosso projeto
+    permite enviar emails a partir do PHP
+
+para enviar o email > conta de email real
+criar uma conta no gmail + configurar a conta para enviar os emails
+augustosc@gmail.com
+
+bD3ZnnMCxbsw
+http://localhost/PHPStore/public/?a=confirmar_email&purl=bD3ZnnMCxbsw
